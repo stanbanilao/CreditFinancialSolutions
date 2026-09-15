@@ -1,4 +1,4 @@
-# Clearline Financial Solutions Website
+# Clearline Financial Services Website
 
 Multi-page static website for a South African debt review removal brand.
 
